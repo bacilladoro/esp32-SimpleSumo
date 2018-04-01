@@ -12,7 +12,7 @@ The SimpleSumo bot has 9 hardware interfaces
 The connections to the ESP32 board are as follows
 
 Device            | GPIO pin         | Comment
-------------------+------------------+---------
+----------------- | ---------------- | --------
 Servo 1           | GPIO16           | Right Wheel
 Servo 2           | GPIO17           | Left Wheel
 IR Sensor 1       | GPIO39           | Right Edge
