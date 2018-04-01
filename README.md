@@ -20,7 +20,7 @@ IR Sensor 2       | GPIO35           | Left Edge
 IR Sensor 3       | GPIO33           | Back Edge
 Button 1          | GPIO18           | Right button
 Button 2          | GPIO19           | Left button
-Ultrasonic Sensor | GPIO5 - Echo     |
-                  | GPIO23 - Trigger | 
+Ultrasonic Sensor | GPIO5            | Echo
+Ultrasonic Sensor | GPIO23           | Trigger 
 Buzzer            | GPIO 22          |
 
